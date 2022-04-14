@@ -11,4 +11,4 @@ class Produto:
         print("Nome: ",self.nome)
         print("Preco: "),self.preco
         print("Quantidade: ",self.qtd)
-        print("Produto cadastrado com sucesso!")
+        print("Produto cadastrado com sucesso!!")
